@@ -67,10 +67,9 @@ The dataset includes a range of behavioral, demographic, and service-related fea
 
 ## How to Run
 
-1. Clone this repository.
-2. Install dependencies from `requirements.txt`.
-3. Place the dataset CSV in the project directory.
-4. Run the main notebook or script to preprocess data, train models, and evaluate results.
+1. Download the ipynb file.
+2. Place the dataset CSV in the project directory.
+2. Run the notebook to preprocess data, train models, and evaluate results.
 
 ## Authors
 
